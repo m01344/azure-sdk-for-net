@@ -1,4 +1,4 @@
-namespace Azure.ResourceManager.Advisor
+namespace Azure.ResourceManager.Advisor.bug.fx
 {
     public static partial class AdvisorExtensions
     {
